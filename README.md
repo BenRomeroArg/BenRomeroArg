@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BenRomeroArg
-- 👀 I’m interested in mucho la tecnogia, programacion y robotica.
-- 🌱 I’m currently learning ...matematicas y fisica en la naturaleza.   
-- 💞️ I’m looking to collaborate on ...espero que pueda colaborar en algo
-- �!no mas guerra no mas hambre!!!
+- 👀 Me interesa las nuevas tecnogias en software,hardware, programacion y robotica.
+- 🌱 Leo..sobre ...matematicas y ciencia ficcion, geologia, astronomia.   
+- 💞️ I’m looking to collaborate on ...espero que pueda colaborar en algo!!
+- �!No mas guerra no mas hambre!!!
 
 <!---
 BenRomeroArg/BenRomeroArg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
