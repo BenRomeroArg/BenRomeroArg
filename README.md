@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenRomeroArg
-- 👀 Me interesa las nuevas tecnogias en software,hardware, programacion y robotica.
+- 👀 Me interesa las nuevas tecnologias en software,hardware, programacion y robotica.
 - 🌱 Leo..sobre ...matematicas y ciencia ficcion, geologia, astronomia.   
 - 💞️ I’m looking to collaborate on ...espero que pueda colaborar en algo!!
 - �!No mas guerra no mas hambre!!!
